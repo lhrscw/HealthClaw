@@ -1,6 +1,6 @@
 **语言：** [English](README.md) | 简体中文
 
-# HealthClaw 飞书 Bot 配置说明
+# HealthJev 飞书 Bot 配置说明
 
 > **快速入口**：主文档 [README.zh-CN.md](../../README.zh-CN.md)「快速开始 → 安装基础依赖」中有 pip 与能力对照；本文给出**可操作的完整配置路径**，含跨设备告警与真机美团链路。
 

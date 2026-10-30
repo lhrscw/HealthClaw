@@ -1,6 +1,6 @@
 **Languages:** English | [简体中文](README.zh-CN.md)
 
-# HealthClaw Feishu (Lark) Bot Setup
+# HealthJev Feishu (Lark) Bot Setup
 
 > **Quick link:** The main repo [README.md](../../README.md) (“Quick start → Install base dependencies”) lists pip packages and capability matrix; this document is the **end-to-end operational path**, including cross-device alerts and on-device Meituan flows.
 
